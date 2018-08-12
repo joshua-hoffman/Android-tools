@@ -1083,9 +1083,7 @@ read
   
 				      adb pull "/data/media/0/TWRP/BACKUPS/*/backup_*" "$BFIL"
       
-				  stty intr ''
-				 
-;;
+				  stty intr '' ;;
   
 				3)
 
